@@ -10,6 +10,8 @@ Data mining project for CS235 for UCR.
 
 
 # Files   
+## All the data is within data folder
+
 * DM-pca-dt by Yishao Wang
 * data-cleaning,dm-with-lgbm and dm-project-with-xgb by Yash chaudhary
 * dm-Linear-Lasso-Ridge by Xiao
