@@ -5,8 +5,7 @@ Data mining project for CS235 for UCR.
 Yash
 Xiao
 Yishao
--
--
+
 
 #Files
 DM-pca-dt - Yishao Wang
