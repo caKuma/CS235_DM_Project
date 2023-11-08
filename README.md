@@ -11,7 +11,7 @@ Data mining project for CS235 for UCR.
 
 # Files   
 ### All the data is within data folder ### 
-The orginal dataset which too big to upload - https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/data
+The orginal dataset which enormous to upload - https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/data
 
 * DM-pca-dt by Yishao Wang
 * data-cleaning,dm-with-lgbm and dm-project-with-xgb by Yash chaudhary
