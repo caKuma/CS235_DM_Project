@@ -1,4 +1,4 @@
-# CS235_DM_Project   
+# CS235_DM_Project - Anonymize Essay Content Scoring with Data Mining Techniques  
 Data mining project for CS235 for UCR. 
 
 # Team Members   
