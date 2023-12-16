@@ -17,6 +17,6 @@ The orginal dataset which enormous to upload - https://www.kaggle.com/competitio
 * dm-dt-self-implementation by Yishao Wang
 * data-cleaning,dm-with-lgbm and dm-project-with-xgb + scratch-dm-project-of-Gradient-boosting by Yash chaudhary
 * dm-Linear-Lasso-Ridge by Xiao
-* DMT_RandomForestRegressor.ipynb by Mubariz Mohammed
+* DMT_RandomForestRegressor_scratch_Mubariz_Mohammed.ipynb by Mubariz Mohammed
 * dmt-project-svm by Umapriya
 
