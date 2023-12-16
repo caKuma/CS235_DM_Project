@@ -14,7 +14,7 @@ Data mining project for CS235 for UCR.
 The orginal dataset which enormous to upload - https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/data
 
 * DM-pca-dt,  dm-dt-self-implementation by Yishao Wang
-* data-cleaning, dm-with-lgbm ,and dm-project-with-xgb + scratch-dm-project-of-Gradient-boosting by Yash chaudhary
+* data-cleaning, dm-with-lgbm ,and dm-project-with-xgb + Scratch-Gradient-Boosting by Yash chaudhary
 * dm-Linear-Lasso-Ridge by Xiao
 * DMT_RandomForestRegressor_scratch_Mubariz_Mohammed.ipynb by Mubariz Mohammed
 * dmt-project-svm by Umapriya
